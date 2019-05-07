@@ -10,6 +10,7 @@ public class CalcularPeriodo {
 		LocalDate fecha = LocalDate.of(1492, Month.OCTOBER, 12);	 
 		// Mostramos cuánto tiempo ha pasado
 		calcularPeriodo("El descubrimiento de América", fecha);
+		calcularPeriodo("El descubrimiento de América", fecha);
 		
 		//4.1. Crea el evento "El nacimiento de Internet" el 21 de noviembre de 1969 
 		//y muestra cuánto tiempo ha pasado
